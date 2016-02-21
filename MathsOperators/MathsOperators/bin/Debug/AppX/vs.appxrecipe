@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-286UD5V</Machine>
+    <WindowsUser>Adnan</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>f5b31472-58c5-4fad-9980-fe4a75833d36</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Adnan\Desktop\Visual CSharp Step By Step\Chapter 2\Windows 8.1\MathsOperators\MathsOperators\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>BB7C768EC92639E0E2F3CE3333A27DE1895B69F27B37E7231CFD3C8A35DD7D39</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>f5b31472-58c5-4fad-9980-fe4a75833d36_1.0.0.0_neutral__v2eq8qs7wm15j</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>f5b31472-58c5-4fad-9980-fe4a75833d36_v2eq8qs7wm15j!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>f5b31472-58c5-4fad-9980-fe4a75833d36</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=John</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Adnan\Desktop\Visual CSharp Step By Step\Chapter 2\Windows 8.1\MathsOperators\MathsOperators\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-02-21T21:23:06.796</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Adnan\Desktop\Visual CSharp Step By Step\Chapter 2\Windows 8.1\MathsOperators\MathsOperators\bin\Debug\MathsOperators.exe">
+      <PackagePath>MathsOperators.exe</PackagePath>
+      <Modified>2016-02-21T21:23:06.426</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adnan\Desktop\Visual CSharp Step By Step\Chapter 2\Windows 8.1\MathsOperators\MathsOperators\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-02-21T19:55:33.239</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adnan\Desktop\Visual CSharp Step By Step\Chapter 2\Windows 8.1\MathsOperators\MathsOperators\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-02-21T19:55:33.251</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adnan\Desktop\Visual CSharp Step By Step\Chapter 2\Windows 8.1\MathsOperators\MathsOperators\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-02-21T19:55:33.263</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adnan\Desktop\Visual CSharp Step By Step\Chapter 2\Windows 8.1\MathsOperators\MathsOperators\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-02-21T19:55:33.275</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adnan\Desktop\Visual CSharp Step By Step\Chapter 2\Windows 8.1\MathsOperators\MathsOperators\bin\Debug\MathsOperators.xr.xml">
+      <PackagePath>MathsOperators.xr.xml</PackagePath>
+      <Modified>2016-02-21T21:23:05.980</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adnan\Desktop\Visual CSharp Step By Step\Chapter 2\Windows 8.1\MathsOperators\MathsOperators\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2016-02-21T21:23:06.057</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adnan\Desktop\Visual CSharp Step By Step\Chapter 2\Windows 8.1\MathsOperators\MathsOperators\bin\Debug\MainWindow.xbf">
+      <PackagePath>MainWindow.xbf</PackagePath>
+      <Modified>2016-02-21T21:23:06.061</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adnan\Desktop\Visual CSharp Step By Step\Chapter 2\Windows 8.1\MathsOperators\MathsOperators\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-02-21T21:23:06.651</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
